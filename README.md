@@ -8,3 +8,6 @@ The Capacitors Are Optional and Are Not Required for This Setup — Added Here f
 
 ![490804331_1393603548651301_6703794943247097120_n](https://github.com/user-attachments/assets/c6d8dabb-e572-4590-af5e-7abcaede4f0b)
 
+Circuit Diagram:
+
+![Untitled design (3)](https://github.com/user-attachments/assets/bb831f15-40fc-4a44-8fd1-156742b87695)
